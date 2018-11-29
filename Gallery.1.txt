@@ -63,12 +63,12 @@
 								<article>
 									<header>
 										<span class="date">c.2012 - Present</span>
-										<h2><a href="Gallery.html">Gallery: Projects of Note</a></h2>
+										<h2><a href="#">Gallery: Projects of Note</a></h2>
 									</header>
-									<a href="Gallery.html" class="image fit"><img src="images/M-Equity.jpg" alt="" /></a>
+									<a href="#" class="image fit"><img src="images/M-Equity.jpg" alt="" /></a>
 									<p>A colourful gallery of photographs that were taken in celebration of past achievements and the completion of projects.</p>
 									<ul class="actions special">
-										<li><a href="Gallery.html" class="button">Full Story</a></li>
+										<li><a href="#" class="button">Full Story</a></li>
 									</ul>
 								</article>
 								<article>
@@ -78,7 +78,7 @@
 										Current and Near Future Applications</a></h2>
 									</header>
 									<a href="https://medium.com/@mosestan/big-data-analytics-current-and-near-future-industry-applications-321811ea2816" class="image fit"><img src="images/Big Data 1.jpg" alt="" /></a>
-									<p> This article seeks to inform readers on how industries are harnessing Big Data to unlock their full potential in the wake of the Fourth Industrial Revolution.</p>
+									<p>Big Data is playing a pivotal role in unlocking 4IR. I wrote this article to provide a clear insight on how industries today are harnessing Big Data. </p>
 									<ul class="actions special">
 										<li><a href="https://medium.com/@mosestan/big-data-analytics-current-and-near-future-industry-applications-321811ea2816" class="button">Full Story</a></li>
 									</ul>
